@@ -29,10 +29,6 @@ Syntax highlighted code block
 
 更多详细信息参考 [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll 主题
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/GiantDog/GiantDog.github.cn/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
 ### 支持或联系
 使用主页时遇到问题?查看[documentation](https://docs.github.com/categories/github-pages-basics/) 或者 [contact support](https://support.github.com/contact) 他们将帮你解决问题.
 
