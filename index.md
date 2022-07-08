@@ -2,8 +2,7 @@
 
 这里是[buerka博客](https://www.buerka.cn) 来跳转至buerka的个人博客
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+每当您提交到此存储库时, GitHub Pages 将会运行 [Jekyll](https://jekyllrb.com/) 从Markdown文件中的内容来重建博客中的页面
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
