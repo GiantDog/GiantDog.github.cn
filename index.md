@@ -2,6 +2,8 @@
 
 这里是[buerka博客](https://www.buerka.cn) 来跳转至buerka的个人博客
 
+GiantDog的个人博客在制作中
+
 每当您提交到此存储库时, GitHub Pages 将会运行 [Jekyll](https://jekyllrb.com/) 从Markdown文件中的内容来重建博客中的页面
 ### Markdown
 
@@ -37,4 +39,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### 额外
 
 不二卡QQ群：1077364974
-MC_JE服务器地址：mc.buerka.cn
+
+MC_JE服务器地址：mc.buerka.cn 或者 tnt.buerka.cn
+
+MC_BE服务器地址：be.buerka.cn
