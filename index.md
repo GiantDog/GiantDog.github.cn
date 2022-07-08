@@ -33,3 +33,8 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### 支持或联系
 使用主页时遇到问题?查看[documentation](https://docs.github.com/categories/github-pages-basics/) 或者 [contact support](https://support.github.com/contact) 他们将帮你解决问题.
+
+### 额外
+
+不二卡QQ群：1077364974
+MC_JE服务器地址：mc.buerka.cn
