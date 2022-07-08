@@ -5,7 +5,7 @@
 每当您提交到此存储库时, GitHub Pages 将会运行 [Jekyll](https://jekyllrb.com/) 从Markdown文件中的内容来重建博客中的页面
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Markdown 是一个轻量级且易于使用的语法来设置写作格式.它包括
 
 ```markdown
 Syntax highlighted code block
