@@ -1,1 +1,1 @@
-# Well, GiantDog.github.cn <Testing>
+# GiantDog.github.cn <Testing>
