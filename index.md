@@ -32,4 +32,4 @@ Syntax highlighted code block
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/GiantDog/GiantDog.github.cn/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### 支持或联系
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+使用主页时遇到问题?查看[documentation](https://docs.github.com/categories/github-pages-basics/) 或者 [contact support](https://support.github.com/contact) 他们将帮你解决问题.
