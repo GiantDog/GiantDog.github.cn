@@ -1,13 +1,10 @@
-## 欢迎来到GiantDog的个人博客
+## 欢迎来到GiantDog的个人代理网站
 
-这里是[buerka博客](https://www.buerka.cn) 来跳转至buerka的个人博客
+没啥可说的，创建一个试试罢了
 
-GiantDog的个人博客在制作中
+### 游戏
 
-### 额外
+Hollow Knight
 
-不二卡QQ群：1077364974
+### 成就
 
-MC_JE服务器地址：mc.buerka.cn 或者 tnt.buerka.cn
-
-MC_BE服务器地址：be.buerka.cn
