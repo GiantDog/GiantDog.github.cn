@@ -16,7 +16,7 @@ Beat the game using only a rock as your weapon / tool. This goes for all players
 
 Beat the game alone without taking any damage.
 
-### 何为淤泥 What the muck
+### 何为MUCK What the muck
 
 一局中的所有玩家不拾取任何增益属性通关游戏
 
@@ -63,3 +63,9 @@ Beat the game with 8 players, but no one can take any damage (Normal diff or har
 在生存模式中击杀一位好友
 
 Kill a friend in Survival Mode
+
+### 噢你不知道啥是卡尔森 Oh you don't know what Karlson is
+
+在Muck中找到卡尔森的愿望清单
+
+Find and wishlist Karlson in Muck
