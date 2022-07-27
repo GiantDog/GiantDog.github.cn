@@ -51,3 +51,15 @@ Beat the game with 2 players, but no one can take any damage (Normal diff or har
 4人无伤通关游戏 （普通或困难难度）
 
 Beat the game with 4 players ,but no one can take any damage (Normal diff or harder)
+
+### 辛酸 Sweat and tears
+
+8人无伤通关游戏 （普通或困难难度）
+
+Beat the game with 8 players, but no one can take any damage (Normal diff or harder)
+
+### 太咸了 Salty
+
+在生存模式中击杀一位好友
+
+Kill a friend in Survival Mode
