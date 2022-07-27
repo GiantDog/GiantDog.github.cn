@@ -15,3 +15,9 @@ Beat the game using only a rock as your weapon / tool. This goes for all players
 单人无伤通关游戏
 
 Beat the game alone without taking any damage.
+
+### 何为淤泥 What the muck
+
+一局中的所有玩家不拾取任何增益属性通关游戏
+
+Beat the game without any players picking up a powerup
