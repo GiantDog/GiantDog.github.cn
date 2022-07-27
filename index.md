@@ -21,3 +21,15 @@ Beat the game alone without taking any damage.
 一局中的所有玩家不拾取任何增益属性通关游戏
 
 Beat the game without any players picking up a powerup
+
+### 灭霸在世 I am inevitable
+
+收集所有5颗宝石
+
+Collect all 5 gems
+
+### 休息 Go outside
+
+生存100天
+
+Survive 100 days
