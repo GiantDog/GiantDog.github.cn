@@ -33,3 +33,21 @@ Collect all 5 gems
 生存100天
 
 Survive 100 days
+
+### 运动时间 Leg Day
+
+走250千米
+
+Walk 250km
+
+### 梦想组队 Dream Team
+
+双人无伤通关游戏 (普通或困难难度）
+
+Beat the game with 2 players, but no one can take any damage (Normal diff or harder)
+
+### 孩子们 The Bois
+
+4人无伤通关游戏 （普通或困难难度）
+
+Beat the game with 4 players ,but no one can take any damage (Normal diff or harder)
