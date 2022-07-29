@@ -4,11 +4,17 @@
 
 ## Muck 剩余成就
 
-### 山顶洞人 Caveman
+### (无法翻译） Muck off
 
-一局中的所有玩家只能用石头作为武器/工具来通关游戏
+累计死亡50次
 
-Beat the game using only a rock as your weapon / tool. This goes for all players
+Die 50 times
+
+### （无法翻译） Muck this game
+
+累计死亡100次
+
+Die 100 times
 
 ### 无伤 Untouchable
 
