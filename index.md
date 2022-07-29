@@ -64,12 +64,6 @@ Beat the game with 8 players, but no one can take any damage (Normal diff or har
 
 Kill a friend in Survival Mode
 
-### 噢你不知道啥是卡尔森 Oh you don't know what Karlson is
-
-在Muck中找到卡尔森的愿望清单
-
-Find and wishlist Karlson in Muck
-
 ### Muckinator 3
 
 Kill 10000 mobs
