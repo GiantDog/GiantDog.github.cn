@@ -4,13 +4,13 @@
 
 ## Muck 剩余成就
 
-### (无法翻译） Muck off
+### Muck off
 
 累计死亡50次
 
 Die 50 times
 
-### （无法翻译） Muck this game
+### Muck this game
 
 累计死亡100次
 
@@ -27,12 +27,6 @@ Beat the game alone without taking any damage.
 一局中的所有玩家不拾取任何增益属性通关游戏
 
 Beat the game without any players picking up a powerup
-
-### 灭霸在世 I am inevitable
-
-收集所有5颗宝石
-
-Collect all 5 gems
 
 ### 休息 Go outside
 
@@ -52,7 +46,7 @@ Walk 250km
 
 Beat the game with 2 players, but no one can take any damage (Normal diff or harder)
 
-### 孩子们 The Bois
+### The Bois
 
 4人无伤通关游戏 （普通或困难难度）
 
@@ -75,3 +69,15 @@ Kill a friend in Survival Mode
 在Muck中找到卡尔森的愿望清单
 
 Find and wishlist Karlson in Muck
+
+### Muck输出者 3 Muckinator 3
+
+杀死10000个怪物狗
+
+Kill 10000 mobs
+
+### Muck输出者 4 Muckinator 4
+
+杀死100000个怪物狗
+
+Kill 100000 mobs
