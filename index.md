@@ -70,14 +70,24 @@ Kill a friend in Survival Mode
 
 Find and wishlist Karlson in Muck
 
-### Muck输出者 3 Muckinator 3
-
-杀死10000个怪物狗
+### Muckinator 3
 
 Kill 10000 mobs
 
-### Muck输出者 4 Muckinator 4
-
-杀死100000个怪物狗
+### Muckinator 4
 
 Kill 100000 mobs
+
+### 失败者 Underdog
+
+Kill 250 buff mobs
+
+### 哥布林杀手 Goblin slayer
+
+杀死1000个哥布林
+
+### 靶心 Bullseye
+
+用弓杀死200个敌人
+
+Kill 200 Enemies using bows
