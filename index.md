@@ -58,7 +58,8 @@ Beat the game with 4 players ,but no one can take any damage (Normal diff or har
 
 Beat the game with 8 players, but no one can take any damage (Normal diff or harder)
 
-### 太咸了 Salty
+### 太咸了 Salt
+y
 
 在生存模式中击杀一位好友
 
@@ -85,3 +86,17 @@ Kill 250 buff mobs
 用弓杀死200个敌人
 
 Kill 200 Enemies using bows
+
+### Phoon
+
+Jump 10000 times
+
+### 死亡之愿 Death Wish
+
+开始200场战斗图腾
+
+Start 200 Battle Totems
+
+### 你是一条鱼 You're a fish
+
+累计游泳25千米
