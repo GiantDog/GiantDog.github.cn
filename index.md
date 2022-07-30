@@ -100,3 +100,11 @@ Start 200 Battle Totems
 ### 你是一条鱼 You're a fish
 
 累计游泳25千米
+
+Swim 25km
+
+### Muck
+
+在只用石头当武器或工具，无伤与不拾取增益的情况下通关游戏（所有玩家+普通 或 困难）
+
+Beat the game using only a rock , taking no damage and using no powerups (All players + Normal or Hrader)
