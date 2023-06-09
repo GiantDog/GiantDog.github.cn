@@ -108,3 +108,19 @@ Swim 25km
 在只用石头当武器或工具，无伤与不拾取增益的情况下通关游戏（所有玩家+普通 或 困难）
 
 Beat the game using only a rock , taking no damage and using no powerups (All players + Normal or Hrader)
+
+### Update Github Page Of Giantdog 23 . 6 . 9 更新github页面的巨狗
+
+好吧，我想，是时候说正事了
+
+距离高考还有364天，是时候该紧张紧张了
+
+这个网站只是目前提醒我一下而已，随便更新
+
+All right , i think , it's time . 
+
+I have to study , cause my score was so bad
+
+This website just want update without regularly .
+
+###### THANKS FOR WATCHING !
